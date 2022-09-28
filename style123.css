@@ -1,0 +1,75 @@
+#title{
+    background-color: white;
+    color: black;
+}
+
+.container{
+    padding-left: 100px;
+
+}
+/* NAVBAR */
+.navbar{
+
+    padding: 10px 0 4.5rem;
+}
+.navbar-brand{
+    padding-left: 50px;
+}
+
+.nav-item{
+    padding: 0 9px;
+}
+.nav-link{
+    font-size: 0.9rem;
+    color: rgb(104, 103, 103);
+    font-weight: 500;
+}
+
+
+.main-image{
+    width: 70%;
+    height: auto;
+}
+
+h1{
+    /* font-family: 'Montserrat-Black', sans-serif; */
+    font-size: 5rem;
+    line-height: 1;
+    font-weight: 700;
+}
+.heading{
+    padding-left: 100px;
+    padding-top: 70px;
+}
+.para{
+    padding-top: 30px;
+    color: rgb(101, 100, 100);
+    font-size: 1.2rem;
+}
+.btn{
+    border-radius: 10px;
+}
+.para{
+    padding-top: 50px;
+}
+.btn-lg{
+    margin-top: 30px;
+}
+.clients{
+    padding-top: 50px;
+}
+.dropdown-menu{
+    color: gray;
+    font-size: medium;
+}
+
+
+
+
+
+@media (min-width: 375px) {
+    
+    .main-image{
+        display: block;
+    }
+}
